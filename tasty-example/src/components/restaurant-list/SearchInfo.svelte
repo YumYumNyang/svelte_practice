@@ -1,10 +1,5 @@
 <div class="info">
     <span>검색 결과: </span>
-    <div>
-      <!-- <button class:selected={$todos.viewMode === Constant.ALL} class="btn" on:click={handleFetchTodoALL} >ALL</button>
-      <button class:selected={$todos.viewMode === Constant.ACTIVE} class="btn" on:click={handleFetchTodoActive} >ACTIVE</button>
-      <button class:selected={$todos.viewMode === Constant.DONE} class="btn" on:click={handleFetchTodoDone} >DONE</button> -->
-    </div>  
   </div>
   
 <style>

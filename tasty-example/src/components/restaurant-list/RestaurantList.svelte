@@ -54,7 +54,7 @@
     border-bottom-right-radius: 5px;  
     }
 
-    .list-container ul li span {
+    /* .list-container ul li span {
     padding: 7px;
     }
 
@@ -78,6 +78,6 @@
     right: 20px;
     text-decoration: none;
     color: #444444;
-    }
+    } */
 
 </style>
