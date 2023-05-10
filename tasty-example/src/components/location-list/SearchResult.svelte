@@ -1,6 +1,11 @@
-<div class="info">
-    <span>검색 결과: </span>
-  </div>
+<script>
+    import { searchText }from '../../utils/store'
+</script>
+{#if $searchText}
+    <div class="info">
+        <span>"{$searchText}"에 대한 검색 결과: </span>
+    </div>
+{/if}
   
 <style>
     .info {
